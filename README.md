@@ -17,3 +17,5 @@ line with occupants’ needs during an incident. This paper contains a review of
 available literature on human behavior in a fire so far as ship safety is concerned. The
 findings are presented as an overview of the critical factors which determine occupants’
 fire response performances, namely the characteristics of fire, human beings and ship.
+
+![](images/1.png)
